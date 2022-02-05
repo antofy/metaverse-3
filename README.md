@@ -1,16 +1,12 @@
-# MayaVerse Updated Alfa Versione 0.3
+# Metaegg Metaverse Updated Alfa Versione 0.3
 
-MayaVerse is an experimental Metaverse - Immersive Virtual World
+This document describes the development and creation of the first Real Virtual World. Metaegg Metaverse will be a replica of the real universe. It will be developed using the best technologies available to overcome the current paradigm of the "Metaverse" and launch the user in a new era. What will be outlined is actually an idea, a project that we hope will soon become a reality. We believe it will be soon a reality, hoping that drawing a plot and describing what are the possibilities will encourage further progress and implementations.
 
-This document describes the development and creation of the first Immersive Virtual World. MayaVerse will be a fully immersive computer recreated universe. It will be developed using the best technologies available to overcome the current paradigm of the "Immersive Virtual Worlds" and launch the user in a new vision.
-What will be outlined is actually an idea, a project that we hope will soon become a reality. We believe il will be soon a reality, hoping that drawing a plot and describing what are the possibilities will encourage further progress and implementations.
+Let's start from the correct definition of "Metaegg Metaverse": 3D  virtual environment of real-world around us created by the computer, shared with multiple users over the Internet with a persistent possibility of insertion, modification, and deletion of objects and agents and direct interaction through virtual devices. Furthermore programmable through a scripting language. 
+The above definition only partially clarifies the possibilities offered by a Metaegg Metaverse. Here, then, is a brief "manifesto" that can detail more the characteristics of the Metaegg Metaverse project. 
+A micro manifesto for the perfect "Metaverse"**:**
 
-Let's start from the correct definition of "MayaVerse":
-3D immersive virtual environment recreated by computer, shared with multiple users over the Internet with a persistent possibility of insertion , modification and deletion of objects and agents and direct interaction through virtual devices. Furthermore programmable through a scripting language.
-The above definition only partially clarifies the possibilities offered by a Metaverse. Here, then, is a brief "manifesto" that can detail more the characteristics of the MayaVerse project.
-A micro manifesto for the perfect "Metaverse":
-
-* Immersive Virtual Reality: Immersive Virtual Reality, designed for a sense of "presence" and "interaction" at a high level. One should not think of a simple HMD viewer connected to an environment recreated on the computer, but of a platform that "involves" the user and above all gives him the possibility of interacting with other users, with objects and also with automatic systems or systems guided by Artificial Intelligence.
+* Immersive Virtual Reality: Immersive Virtual Reality, designed for a sense of "presence" and "interaction" at a high level. One should not think of a simple HMD viewer connected to an environment recreated on the computer, but of a platform that "involves" the user and above all gives him the possibility of interacting with other users, with objects, and also with automatic systems or systems guided by Artificial Intelligence.
 
 * Open Source/Royalty Free protocols, standards, queues: the entire Metaverse source code should be released under Open Source lincense, but above all based on standards and non-proprietary protocols, open and certified by international bodies. Examples are the VRML standards and its evolution X3D which, however, after a period of good diffusion, have been "forgotten" by the IT industry. Recently, Carmack has also underlined this possibility with the creation of an open standard for describing a 3D scene and its transfer through the internet via glTF.
 
@@ -99,9 +95,3 @@ Configuration git:
 - https://assetstore.unity.com/packages/tools/particles-effects/bfw-simple-dynamic-clouds-85665
 - https://assetstore.unity.com/packages/tools/particles-effects/nvidia-vrworks-83505
 - https://avatarsdk.com/
-
---
-
-See project wiki for info: https://github.com/Vytek/MayaVerse03/wiki
-
-[![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/V7V4EXM8)
