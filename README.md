@@ -1,6 +1,8 @@
 # Metaegg Metaverse Updated Alfa Versione 0.3
 ![image](https://user-images.githubusercontent.com/97986424/152596678-49851c5a-c284-4e08-a111-63439a064015.png)
 
+Updated Code: https://github.com/metaegg/metaverse.git
+
 This document describes the development and creation of the first Real Virtual World. Metaegg Metaverse will be a replica of the real universe. It will be developed using the best technologies available to overcome the current paradigm of the "Metaverse" and launch the user in a new era. What will be outlined is actually an idea, a project that we hope will soon become a reality. We believe it will be soon a reality, hoping that drawing a plot and describing what are the possibilities will encourage further progress and implementations.
 
 Let's start from the correct definition of "Metaegg Metaverse": 3D  virtual environment of real-world around us created by the computer, shared with multiple users over the Internet with a persistent possibility of insertion, modification, and deletion of objects and agents and direct interaction through virtual devices. Furthermore programmable through a scripting language. 
